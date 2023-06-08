@@ -19,7 +19,7 @@ The dataset used for training and evaluation consists of samples of transformed 
 
 The machine learning model is based on logistic regression, a popular algorithm for binary classification tasks. It uses a linear combination of the input features followed by a sigmoid activation function to produce the classification output.
 
-The model architecture is as follows:
+The model architecture is as follows
 
 Input Layer: 
 
