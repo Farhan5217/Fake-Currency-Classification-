@@ -5,7 +5,7 @@
 ![Screenshot](https://tse4.mm.bing.net/th?id=OIP.3x-QNXbjyB7U9fn_hAfgiwHaDH&pid=Api&P=0&h=180)
 ## Introduction
 
-This repository contains a machine learning model for fake currency classification. The model utilizes transformed wavelet characteristics, including variance, asymmetry, kurtosis, and image entropy, as input features to accurately classify banknotes as genuine or counterfeit.
+This repository contains a machine-learning model for fake currency classification. The model utilizes transformed wavelet characteristics, including variance, asymmetry, kurtosis, and image entropy, as input features to accurately classify banknotes as genuine or counterfeit.
 
 
 
